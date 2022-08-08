@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Tebu-98
-- 👀 I’m interested in ...web development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Ntabane Tebu
+- 👀 I’m interested in Javascript Development
+- 🌱 I’m currently a final year IT student
+- 📫 How to reach me ...ntabanetebu@gmail.com
 
 <!---
 Tebu-98/Tebu-98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
